@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 53d46fb0d802299439c2619f050196cd
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _Grass1: {fileID: 2800000, guid: 2923c788e2dcf2446a6e26d9cc01f6d4, type: 3}
+  - _Grass1Norm: {fileID: 2800000, guid: e1c53d8265c81f641b19868d12517221, type: 3}
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
